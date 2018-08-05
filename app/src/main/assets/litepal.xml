@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="PrincekinWeather"/>
+    <version value="1"/>
+    <list>
+        <mapping class='com.PrincekinWeather.android.db.Province'/>
+        <mapping class='com.PrincekinWeather.android.db.City'/>
+        <mapping class='com.PrincekinWeather.android.db.Country'/>
+    </list>
+</litepal>
